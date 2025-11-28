@@ -1,10 +1,4 @@
-# 👋 Salut, moi c'est Fares !
 
-💻 Développeur passionné par le web, le dev logiciel et l'ia
-
-📌 Basé à Arles
-
-🚀 Je travaille actuellement sur un projet Web pour valider un bac +2.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
