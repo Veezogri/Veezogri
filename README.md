@@ -2,7 +2,7 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-Développeur Full Stack orienté **produit** et **qualité**, je construis des applications web **propres, sécurisées et maintenables** : API, dashboards, PWA, et projets full-stack (auth, rôles, modération, etc.).
+Développeur Full Stack orienté **produit** et **qualité**, je construis des applications **propres, sécurisées et maintenables** : API, dashboards, PWA, et projets full-stack (auth, rôles, modération, etc.).
 
 📍 Marseille, France  
 📫 Contact : **rialfares@gmail.com**  
