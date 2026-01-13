@@ -5,9 +5,9 @@
 Développeur Full Stack orienté **produit** et **qualité**, je construis des applications **propres, sécurisées et maintenables** : API, dashboards, PWA, et projets full-stack (auth, rôles, modération, etc.).
 
 📍 Marseille, France  
-📫 Contact : **rialfares@gmail.com**  
+
 🔗 LinkedIn : **linkedin.com/in/fares-rial**  
-🐙 GitHub : **github.com/Veezogri**
+
 
 ---
 
