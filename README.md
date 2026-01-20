@@ -98,6 +98,8 @@ Développeur Full Stack orienté **produit** et **qualité**, je construis des a
 
 ---
 
+### 📊 Mes statistiques GitHub
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veezogri&show_icons=true&hide_border=true&include_all_commits=true&theme=dark&hide=prs&cache_seconds=86400&v=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veezogri&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400&v=1" />
 
