@@ -19,7 +19,7 @@ Développeur Full Stack orienté **produit** et **qualité**, je construis des a
 - **TailwindCSS**, **SCSS**
 
 ### Back-end / API
-- **Node.js (Express / NestJS si tu l’utilises)**
+- **Node.js (Express / NestJS)**
 - **Symfony (PHP)**
 - **API REST**, **GraphQL**
 
