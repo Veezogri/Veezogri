@@ -34,7 +34,7 @@ Développeur Full Stack orienté **produit** et **qualité**, je construis des a
 - **Kubernetes**
 - **AWS**
 - **Azure**
-- **CI/CD** (GitHub Actions / GitLab CI si tu l’utilises)
+- **CI/CD** (GitHub Actions / GitLab CI)
 
 ### Quality / Tests
 - **Jest** (JS/TS)
